@@ -1,1 +1,2 @@
-https://github.com/ishrat2017/B8A2-Gamer-Zone2
+https://ishrat2017.github.io/B8A2-Gamer-Zone2/
+
